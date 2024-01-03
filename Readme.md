@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ([Dictionary App](https://news-homepage-main-rho-woad.vercel.app/))
+- Live Site URL: ([Dictionary App](https://dictionary-an-app.vercel.app/))
 
 ## My process
 
